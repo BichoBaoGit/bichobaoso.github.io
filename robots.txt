@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Bloquear áreas internas
+Disallow: /admin/
+Disallow: /login/
+Disallow: /painel/
+
+# Sitemap
+Sitemap: https://www.bichobao.com.br/sitemap.xml
