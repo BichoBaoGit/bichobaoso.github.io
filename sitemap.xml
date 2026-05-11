@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://www.bichobao.com.br/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://www.bichobao.com.br/images/logo.png</image:loc>
+      <image:title>Bicho Bão Clínica Veterinária</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bichobao.com.br/images/clinica-veterinaria.jpg</image:loc>
+      <image:title>Clínica Veterinária Bicho Bão</image:title>
+    </image:image>
+  </url>
+
+  <!-- SOBRE -->
+  <url>
+    <loc>https://www.bichobao.com.br/sobre</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- SERVIÇOS -->
+  <url>
+    <loc>https://www.bichobao.com.br/servicos/consulta-veterinaria</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+
+    <image:image>
+      <image:loc>https://www.bichobao.com.br/images/consulta-veterinaria.jpg</image:loc>
+      <image:title>Consulta Veterinária</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.bichobao.com.br/servicos/vacinacao-animal</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.bichobao.com.br/servicos/cirurgia-veterinaria</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.bichobao.com.br/servicos/exames-veterinarios</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- BLOG -->
+  <url>
+    <loc>https://www.bichobao.com.br/blog/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.bichobao.com.br/blog/cuidados-com-filhotes</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.bichobao.com.br/blog/calendario-de-vacinacao-para-caes</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- CONTATO -->
+  <url>
+    <loc>https://www.bichobao.com.br/contato</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
